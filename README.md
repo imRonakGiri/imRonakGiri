@@ -16,7 +16,6 @@ I love sharing knowledge and Working With Code,so i'm on github for helping othe
 
  ### Here is a list of some of them...
 
-<br>
 
 - `HTML`
 
@@ -45,8 +44,7 @@ I love sharing knowledge and Working With Code,so i'm on github for helping othe
 
 #### Github Stats
 
-![imRonakGiri's github stats](https://github-readme-stats.vercel.app/api?username=imRonakGiri&count_private=true&theme=tokyonight&hide=contribs,prs)
-
+![imRonakGiri's github stats](https://github-readme-stats.vercel.app/api?username=imRonakGiri&theme=tokyonight)
 
 ## My Hobbies
 
@@ -58,8 +56,6 @@ I love sharing knowledge and Working With Code,so i'm on github for helping othe
   - physics
   - astronomy 
   - Earth science
-
-
 
 <!-- - 🤔 I’m looking for help with ... -->
 
