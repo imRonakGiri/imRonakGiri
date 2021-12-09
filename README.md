@@ -17,19 +17,7 @@ I love sharing knowledge and Working With Code,so i'm on github for helping othe
  ### Here is a list of some of them...
 
 
-- `HTML`
-
-- `CSS`
-
-- `javascript`
-
-- `SASS`
-
-- `GRUNT-JS`
-
-- `NODE-JS`
-
-- `FireBase`
+`HTML` `CSS` `javascript` `SASS` `GRUNT-JS` `NODE-JS` `FireBase`
 
 ## Currently i'm Trying to Master Css
 
