@@ -44,7 +44,7 @@ I love sharing knowledge and Working With Code,so i'm on github for helping othe
 
 #### Github Stats
 
-![imRonakGiri's github stats](https://github-readme-stats.vercel.app/api?username=imRonakGiri&theme=tokyonight)
+<!-- ![imRonakGiri's github stats](https://github-readme-stats.vercel.app/api?username=imRonakGiri&theme=tokyonight) -->
 
 ## My Hobbies
 
