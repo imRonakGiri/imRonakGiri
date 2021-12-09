@@ -6,17 +6,6 @@
 
 I love sharing knowledge and Working With Code,so i'm on github for helping other developers, and that's why imRonakGiri Github Profile exists!
 
-## My Hobbies
-
-### - explore the universe
-
-### - all about science
-  - biology 
-  - chemistry
-  - physics
-  - astronomy 
-  - Earth science
-
 <!-- - 💬 Ask me about ... -->
 
  Ask me anything, I will definitely answer your question if possible.
@@ -57,6 +46,19 @@ I love sharing knowledge and Working With Code,so i'm on github for helping othe
 #### Github Stats
 
 ![imRonakGiri's github stats](https://github-readme-stats.vercel.app/api?username=imRonakGiri&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+
+## My Hobbies
+
+### - explore the universe
+
+### - all about science
+  - biology 
+  - chemistry
+  - physics
+  - astronomy 
+  - Earth science
+
 
 
 <!-- - 🤔 I’m looking for help with ... -->
