@@ -54,8 +54,7 @@ I love sharing knowledge and Working With Code,so i'm on github for helping othe
   - biology 
   - chemistry
   - physics
-  - astronomy 
-  - Earth science
+
 
 <!-- - 🤔 I’m looking for help with ... -->
 
