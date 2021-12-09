@@ -42,7 +42,7 @@ I love sharing knowledge and Working With Code,so i'm on github for helping othe
 [My linkedIn Profile](https://www.linkedin.com/in/imRonakGiri)
 ## I would enjoy working with you....
 
-#### Github Stats
+<!-- #### Github Stats -->
 
 <!-- ![imRonakGiri's github stats](https://github-readme-stats.vercel.app/api?username=imRonakGiri&theme=tokyonight) -->
 
