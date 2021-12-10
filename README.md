@@ -27,7 +27,12 @@ I love sharing knowledge and Working With Code,so i'm on github for helping othe
 
 <!-- - 📫 How to reach me: ... -->
 
-[My linkedIn Profile](https://www.linkedin.com/in/imRonakGiri)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imRonakGiri/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/imRonakGiri/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://rmax.ronakgiri.com)
+
+<!-- [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/name) -->
+
 ### I would enjoy working with you....
 
 <!-- #### Github Stats -->
