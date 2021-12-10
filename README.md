@@ -23,7 +23,7 @@ I love sharing knowledge and Working With Code,so i'm on github for helping othe
 
 <!-- - ⚡ Fun fact: ... -->
 
-`If you really want to take your project to the next level, like water-flow, then get in touch now, and let's fly together!`
+If you really want to take your project to the next level, like water-flow, then get in touch now, and let's fly together!
 
 <!-- - 📫 How to reach me: ... -->
 
@@ -44,9 +44,7 @@ I love sharing knowledge and Working With Code,so i'm on github for helping othe
 ### - explore the universe
 
 ### - all about science
-  - biology 
-  - chemistry
-  - physics
+  - `biology` `chemistry` `physics`
 
 
 <!-- - 🤔 I’m looking for help with ... -->
