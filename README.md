@@ -34,9 +34,9 @@ If you want to take your project to the next level, Like Water-flow, then get in
 
 ## My Hobbies
 
-### - explore the universe
+### - Studying the Cosmos.
 
-### - all about science
+### - Science.
   - `biology` `chemistry` `physics`
 
 
