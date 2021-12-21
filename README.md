@@ -9,10 +9,7 @@ I love to share My knowledge and work With Code, so I'm on GitHub to help other 
 <!-- - 💬 Ask me about ... -->
 <!-- - 🌱 I’m currently learning ... -->
 
- ## I've learned about some technology before
-
- ### Here is a list of some of them...
-
+ ## I have learned some technology, here is a listed some of them.
 
 `HTML` `CSS` `javascript` `SASS` `GRUNT-JS` `NODE-JS` `FireBase`
 
