@@ -4,7 +4,7 @@
 
 # Currently I am working on open source projects
 
-I love sharing knowledge and Working With Code,so i'm on github for helping other developers, and that's why imRonakGiri Github Profile exists!
+I love to share My knowledge and work With Code, so I'm on GitHub to help other developers and get Help From others, and that's why imRonakGiri Github Profile Exists!
 
 <!-- - 💬 Ask me about ... -->
 
