@@ -13,7 +13,7 @@
 
 `HTML` `CSS` `javascript` `SASS` `GRUNT-JS` `NODE-JS` `FireBase`
 
-## Currently i'm Trying to Master Css
+## Currently, I'm Trying to Master CSS
 
 <!-- - ⚡ Fun fact: ... -->
 
