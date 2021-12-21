@@ -7,9 +7,6 @@
 I love to share My knowledge and work With Code, so I'm on GitHub to help other developers and get Help From others, and that's why imRonakGiri Github Profile Exists!
 
 <!-- - 💬 Ask me about ... -->
-
- Ask me anything, I will definitely answer your question if possible.
-
 <!-- - 🌱 I’m currently learning ... -->
 
  ## I've learned about some technology before
