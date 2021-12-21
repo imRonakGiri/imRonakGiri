@@ -23,15 +23,6 @@ If you want to take your project to the next level, Like Water-flow, then get in
 
 <!-- - 📫 How to reach me: ... -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imRonakGiri/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://imronak.w3spaces.com)
-<!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://rmax.ronakgiri.com) -->
-<!-- [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/name) -->
-
-<!-- #### Github Stats -->
-
-<!-- ![imRonakGiri's github stats](https://github-readme-stats.vercel.app/api?username=imRonakGiri&theme=tokyonight) -->
-
 ## My Hobbies
 
 ### - Studying the Cosmos.
