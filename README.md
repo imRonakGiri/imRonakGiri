@@ -23,11 +23,11 @@ If you want to take your project to the next level, Like Water-flow, then get in
 
 <!-- - 📫 How to reach me: ... -->
 
-## My Hobbies
+### My Hobbies
 
-### - Studying the Cosmos.
+#### - Studying the Cosmos.
 
-### - Science.
+#### - Science.
   - `biology` `chemistry` `physics`
 
 
