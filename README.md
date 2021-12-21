@@ -2,7 +2,7 @@
 
 <!-- - 🔭 I’m currently working on... -->
 
-# Currently I am working on open source projects
+# Currently, I'm working on open Source Projects.
 
 I love to share My knowledge and work With Code, so I'm on GitHub to help other developers and get Help From others, and that's why imRonakGiri Github Profile Exists!
 
